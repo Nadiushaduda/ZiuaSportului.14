@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url("images/sport.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #FFD700;
+}
+
+.container {
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 40px auto;
+    max-width: 800px;
+    border-radius: 15px;
+}
